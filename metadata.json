@@ -1,0 +1,11 @@
+{
+  "name": "Stemphonic",
+  "description": "Professional audio stem separation studio. Extract vocals, music, and instruments from any audio file or YouTube video using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "audio_processing",
+    "ai_separation"
+  ]
+}
